@@ -1,0 +1,49 @@
+Explain the following Linux commands with an example. Share the screenshot of each
+command with the output:
+
+1. pwd : #'Print  Working Directory'
+              #It displays the pathname for the current directory.
+              #Eg.pwd
+	
+2. vi :   # It starts the visual mode for editing the file.     
+            #Eg. vi filename
+
+3. touch : #It creates an empty file with the mentioned name.
+	#Eg. touch filename.txt - updates the access time to current time
+
+4. mkdir : #It creates  a new directory.
+	 #Eg. mkdir lion - createss a directory named lion.
+
+5. rm : #It removes or deletes files .
+            #Eg. rm lion.txt
+
+6. ls :  #It lists directory contents.
+           #Eg. ls -g
+
+7. echo : #It is used in shell scripts and batch files to display status text on screen or in a file.
+               #Eg.echo The sun rises in the east.
+
+8. cat : # It is used to create single or multiple files, view contentof a file, concatenate files and redirect output in terminal or files.
+             #Eg.cat lion.txt - displays contents of the file lion in terminal box.
+
+9. who : #  It is used to display a list of users who are currently logged into the computer.
+              #   Eg.who
+
+10. cd : #  It is a command-line OS shell command which is used to change the current working directory in operating systems.
+              #  Eg.cd lion/newproject
+
+11. date : # It is used to print or set the system date and time.
+                 #  Eg.date
+
+12. cal : #  It displays the calendar of the current month.
+               #  Eg.cal -1 - displays the current month
+
+13. mv : #  It is used to move or rename files.
+              #   Eg.mv lion.txt destination-directory
+
+14. cp : #  It is used to copy files from source to destination. 
+             #  Eg.cp original-file new-file
+
+
+15. which : #  It is used to find the path names for which the files will be executed.
+                    #  Eg.which sh
